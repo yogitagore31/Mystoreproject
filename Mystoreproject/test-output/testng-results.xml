@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[LoginBtn Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on LogIn button]]>
+    </line>
+    <line>
+      <![CDATA[user email entered]]>
+    </line>
+    <line>
+      <![CDATA[entered password]]>
+    </line>
+    <line>
+      <![CDATA[adding product...]]>
+    </line>
+    <line>
+      <![CDATA[view product cart...]]>
+    </line>
+    <line>
+      <![CDATA[Enternameoncard....]]>
+    </line>
+    <line>
+      <![CDATA[entercardnum....]]>
+    </line>
+    <line>
+      <![CDATA[entering cvc...]]>
+    </line>
+    <line>
+      <![CDATA[Entering expiry month]]>
+    </line>
+    <line>
+      <![CDATA[Entering expiry year]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submit paydetails]]>
+    </line>
+    <line>
+      <![CDATA[Validating order confirmed....]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-15T20:01:24 IST" name="Suite" finished-at="2024-11-15T20:03:04 IST" duration-ms="99807">
+    <groups>
+    </groups>
+    <test started-at="2024-11-15T20:01:24 IST" name="Test" finished-at="2024-11-15T20:03:04 IST" duration-ms="99807">
+      <class name="com.mystore.testcases.Newtest">
+        <test-method signature="testrun()[pri:0, instance:com.mystore.testcases.Newtest@4a8ab068]" started-at="2024-11-15T20:01:24 IST" name="testrun" finished-at="2024-11-15T20:03:04 IST" duration-ms="99739" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[LoginBtn Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on LogIn button]]>
+            </line>
+            <line>
+              <![CDATA[user email entered]]>
+            </line>
+            <line>
+              <![CDATA[entered password]]>
+            </line>
+            <line>
+              <![CDATA[adding product...]]>
+            </line>
+            <line>
+              <![CDATA[view product cart...]]>
+            </line>
+            <line>
+              <![CDATA[Enternameoncard....]]>
+            </line>
+            <line>
+              <![CDATA[entercardnum....]]>
+            </line>
+            <line>
+              <![CDATA[entering cvc...]]>
+            </line>
+            <line>
+              <![CDATA[Entering expiry month]]>
+            </line>
+            <line>
+              <![CDATA[Entering expiry year]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submit paydetails]]>
+            </line>
+            <line>
+              <![CDATA[Validating order confirmed....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testrun -->
+      </class> <!-- com.mystore.testcases.Newtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
